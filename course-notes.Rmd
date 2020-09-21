@@ -2,7 +2,7 @@
 title: "Notes for lecture"
 author: "Shitaye Homma"
 date: "9/21/2020"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
